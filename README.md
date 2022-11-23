@@ -10,7 +10,8 @@
 ### 👨‍💻 About Me :
 
 - I am a senior at Princeton University studying Computer Science.
-- I am mainly interested in backend web development, mobile development, as well as embedded programming.
+- I'm learning backend development, web dev, blockchain development, and embedded development.
+- Currently trying to figure out Rust.
 - Actively looking for full-time software engineering positions.
 - You can reach me at LinkedIn or moin@princeton.edu
 ---
