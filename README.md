@@ -10,10 +10,11 @@
 ### 👨‍💻 About Me :
 
 - I am a senior at Princeton University studying Computer Science.
-- I'm learning backend development, web dev, blockchain development, and embedded development.
+- I'm learning backend development, web development, blockchain development, and embedded development.
 - Currently trying to figure out Rust.
 - Actively looking for full-time software engineering positions.
 - You can reach me at LinkedIn or moin@princeton.edu
+- Currently working on creating a platform for scheduling and trading shifts in a marketplace. See more: https://github.com/PrincetonCS-UCA/subswap
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
