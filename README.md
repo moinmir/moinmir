@@ -1,19 +1,10 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/moinmir/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 ### 👨‍💻 About Me :
 
 - I am a senior at Princeton University studying Computer Science.
 - I'm learning backend development, web development, blockchain development, and embedded development.
 - Currently trying to figure out Rust.
 - Actively looking for full-time software engineering positions.
-- You can reach me at LinkedIn or moin@princeton.edu
+- You can reach me at moin@princeton.edu or <a href="https://www.linkedin.com/in/moinmir/">LinkedIn</a>
 - Currently working on creating a platform for scheduling and trading shifts in a marketplace. See more: https://github.com/PrincetonCS-UCA/subswap
 ---
 
